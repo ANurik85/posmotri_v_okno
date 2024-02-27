@@ -203,7 +203,7 @@ button:disabled {
   inset-block-start: 50%;
   inset-inline-start: -25px;
 }
-        /* content__card */
+        /*-- content__card --*/
         
 .content__card {
   display: flex;
