@@ -1,1 +1,1 @@
-# karty-podskazhut
+https://github.com/ANurik85/karty-podskazhut.git
